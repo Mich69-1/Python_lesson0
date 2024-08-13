@@ -1,4 +1,4 @@
-
+# 1st program
 # 4th program
 a = '2123.856'
 print(int(float(a) * 10 % 10))
